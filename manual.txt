@@ -1,0 +1,21 @@
+Hallo!
+
+Tnx for purchasing my project )
+Here is the simple tutorial for it :
+
+We have 3 parameters for change:
+
+1) Birthday name - here you can change the name on cake. Foe doing this just click twice
+on "BIRTDAY NAME " composition on project panel. Click twice on text layer ( Diana) and change the name watever you want. Read circle represents the area of the cake border .
+Also you can paste here any liitle photo\logo too.
+
+2) Wishes - here you can change the wishes or just a name on the heart postcard.
+For doing this just click twice on text layer ( Roma ) and change the text watever you want to .
+Red area represents the borders of the postacrd.
+Also if you want to be an incognito ( no names ) just type any text or delete it .
+
+3) Happy birthday - her eyou can change the age on the cake. For doing this select the  
+" CONTROL " layer and in effect panel we have an AGE slider controller. You can change age value from 1-100 or disable the age numbers totally if you put 0 value.
+
+Good luck and hafe fun )
+HAPPY BIRTHDAY EVERYONE = ) !
